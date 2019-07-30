@@ -3,6 +3,7 @@
 	font-family: 'Literata', serif;
 	margin: 0;
 	padding: 0;
+	overflow-x: hidden;
 }
 
 .case
@@ -237,6 +238,11 @@
 .ph-30
 {
 	padding: 0 30%;
+}
+
+.parallax
+{
+	margin-bottom: 20px;
 }
 
 .image
